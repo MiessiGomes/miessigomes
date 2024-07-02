@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> >
+<p align="left">
   Sou o José Ricardo e sou <strong>Cientista de Dados</strong>.<br>
    No momento estou terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
 </p>
