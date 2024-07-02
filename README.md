@@ -20,10 +20,10 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Medium">
+  <a href="https://medium.com/@miessigomes" title="Medium">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@miessigomes" alt="Medium"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/miessigomes/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miessigomes/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/miessigomes/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/miessigomes/" alt="Instagram"/></a>
 </p>
