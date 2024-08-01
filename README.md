@@ -4,7 +4,7 @@
 
 <p align="left">
   Sou o José Ricardo e sou <strong>Cientista de Dados</strong>.<br>
-   No momento estou terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
+   No momento estou trabalhando com Visão Computacional e Machine Learning, terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
 </p>
 
 <p align="left">
