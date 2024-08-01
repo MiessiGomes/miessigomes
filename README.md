@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Sou o José Ricardo e sou <strong>Cientista de Dados</strong>.<br>
-   No momento estou trabalhando com Visão Computacional e Machine Learning, terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
+  Sou o José Ricardo e trabalho com <strong>Visão Computacional e Machine Learning</strong>.<br>
+   No momento além de trabalhar, estou terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Jupyter Notebook, VS Code, Pandas, Seaborn, Scikit-Learn e Numpy</strong>
+  💼 Ferramentas: <strong>Jupyter Notebook, VS Code, Pandas, Seaborn, Scikit-Learn, Numpy, OpenCV, YOLO, Meta Segment Anything</strong>
 </p>
 
 <p align="left">
