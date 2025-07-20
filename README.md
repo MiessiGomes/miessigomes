@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Jupyter Notebook, VS Code, Pandas, Seaborn, Scikit-Learn, Numpy, OpenCV, YOLO, Meta Segment Anything</strong>
+  💼 Ferramentas: <strong>Jupyter Notebook, VS Code, Pandas, Seaborn, Scikit-Learn, Numpy, OpenCV, YOLO, Meta Segment Anything, TensorFlow, PyTorch, CNN and Machine Learning</strong>
 </p>
 
 <p align="left">
