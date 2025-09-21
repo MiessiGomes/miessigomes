@@ -4,7 +4,7 @@
 
 <p align="left">
   Sou o José Ricardo e trabalho com <strong>Visão Computacional e Machine Learning</strong>.<br>
-   No momento além de trabalhar, estou terminando a faculdade de Engenharia de Software e fazendo meu TCC em previsão de doença arterial usando machine learning.
+   Formado em Engenharia de Software e cursando pós gradução em Visão Computacional.
 </p>
 
 <p align="left">
