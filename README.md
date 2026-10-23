@@ -4,7 +4,7 @@
 
 <p align="left">
   Sou o José Ricardo e trabalho com <strong>Visão Computacional e Machine Learning</strong>.<br>
-   Formado em Engenharia de Software e cursando pós gradução em Visão Computacional.
+   Formado em Engenharia de Software e pós graduado em Visão Computacional.
 </p>
 
 <p align="left">
